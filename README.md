@@ -41,7 +41,7 @@ Open Source Strategierahmen zur Minimierung der Zahl der Covid-19 Erkrankungen u
 
 ## Anwendung
 
-Zur Anwendung des #lowcovid Ansatzes müssen sich die Verantwortlichen auf eine initiale Strategie auf Basis des #lowcovid Strategierahmens einigen und deren lokale Anwendung verbindlich vereinbaren.
+Zur Anwendung des hier vorgeschlagenen #lowcovid Ansatzes müssen sich die Verantwortlichen auf eine initiale #lowcovid Strategie auf Basis des vorliegenden #lowcovid Strategierahmens einigen und deren lokale Anwendung verbindlich vereinbaren.
 
 Die nachfolgenden Ausführungen können als Blaupause für die zu beschließende Vorgehensweise betrachtet werden.
 
@@ -64,7 +64,7 @@ Zwischen den Gebieten kann ein motivierender Wettbewerbseffekt um die niedrigste
 
 ## Zeitschema
 
-Die Anwendung von #lowcovid erfolgt in festen Zeiträumen, z.B. **wöchentlich**, nach einem festen Terminrhythmus.
+Die Anwendung einer #lowcovid Strategie erfolgt in festen Zeiträumen, z.B. **wöchentlich**, nach einem festen Terminrhythmus.
 
 Dabei werden folgende konkrete Zeitpunkte definiert:
 
@@ -215,7 +215,7 @@ Die dazu relevanten persönlichen Eigenschaften werden im weiteren Verlauf als *
 
 ## Warnstufen
 
-&nbsp;#lowcovid unterscheidet **sieben Warnstufen**. Diese werden mit den Zahlen **1 - 7** definiert und bezeichnet.
+Der vorliegende #lowcovid Ansatz unterscheidet **sieben Warnstufen**. Diese werden mit den Zahlen **1 - 7** definiert und bezeichnet.
 1 ist die niedrigste Warnstufe, 7 ist die höchste Warnstufe, die einem vollen Lockdown entspricht.
 
 Hinzu kommt mit 0 noch eine zusätzliche Stufe "Standby" - ohne jegliche Maßnahmen.
@@ -339,14 +339,14 @@ Auch Übersetzungen des Informationsangebots in andere Sprachen wären so recht 
 
 # Selbstkritik
 
-- \#lowcovid ist ein sehr formeller Ansatz
+- der vorgestellte \#lowcovid Strategierahmen ist ein sehr formeller Ansatz
   
 _Möglicher Lösungsansatz: Bei der Umsetzung des Informationsmechanismus müssen Komplexitätsreduktion, Usability und User Experience im Vordergrund stehen._
 
 
 # Unterstützen
 
-Sie halten den #lowcovid Strategierahmen und darauf basierende Strategien für eine geeignete Möglichkeit zur Bekämpfung der Covid-19 Epidemie, solange keine endgültige Lösung gefunden ist?   
+Sie halten den vorgeschlagenen #lowcovid Strategierahmen und darauf basierende Strategien für eine geeignete Möglichkeit zur Bekämpfung der Covid-19 Epidemie, solange keine endgültige Lösung gefunden ist?   
 
 Teilen Sie Ihre Meinung doch einfach auf Twitter oder GitHub mit.
 
@@ -368,5 +368,6 @@ Tutorials dazu finden sich im Netz.
   - [ ] der zugrundeliegenden Parameter der Warnstufen
   - [ ] Formel zur Ermittlung der Warnstufe
   - [ ] Zuordnung der Maßnahmen zu Warnstufen und Lebensbereichen
+  - [ ] Beispiel einer #lowcovid Strategie erstellen  
   - [ ] \#lowcovid Daten-Framework Projekt starten
 - [ ] Die Hoffnung nicht verlieren, dass alles gut wird. 
