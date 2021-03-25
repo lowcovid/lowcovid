@@ -14,7 +14,7 @@ ToDo mögliche weitere Gebietsparameter
 
 - Fallzahlen (in bestimmten Altersklassen)
 - Inzidenz (in bestimmten Altersklassen)
-- Positivität von Tests
+- Positivitätsrate von Tests
 - Abwassermessungen
 - Krankenhauskapazitäten
 - Impfquoten (in bestimmten Altersklassen)
