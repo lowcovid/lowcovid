@@ -7,7 +7,7 @@ Inspiriert durch
 - teilweise improvisiert und träge wirkendes Handeln der politischen Klasse
 
 
-- teilweise fehlende Ursache-Wirkungsbeziehungen für bisherige, generalisierte Einschränkungen
+- teilweise fehlende Ursache-Wirkungsbeziehungen für bisherige, generalisierte Einschränkungen und überstürzte Öffnungen
 
 
 - &nbsp;#nocovid, #zerocovid
@@ -31,6 +31,9 @@ Inspiriert durch
 
 
 - **Periodische Aktualisierung** - neue Erkenntnisse fließen kontrolliert in das Konzept ein
+
+
+- **Offenheit** - für alle nachvollziehbare Entscheidungen, keine Hinterzimmermentalität
 
  
 # Spezifikation
@@ -251,7 +254,7 @@ Statt nur von der Inzidenz auszugehen, ergründet sich die Warnstufe eines Gebie
 
 - Fallzahlen (in bestimmten Altersklassen)
 - Inzidenz (in bestimmten Altersklassen)
-- Positivität von Tests
+- Positivitätsrate von Tests
 - Abwassermessungen
 - Krankenhauskapazitäten
 - Impfquoten (in bestimmten Altersklassen)
@@ -328,7 +331,7 @@ So können diese Informationen automatisiert in verschiedenste Publikationen üb
 - **Mobilen Apps**
 - LED-Tafeln und Anzeigen (z.B. an Straßen oder Eingängen von Geschäften) 
 - Chatbots  
-- Gedruckten Publikationen
+- Gedruckten Publikationen (z.B. PDF)
 - Gesetzestext Generatoren (z.B. wöchentliche Aktualisierung der jeweiligen Corona-Verordnung)
 - ...
 
